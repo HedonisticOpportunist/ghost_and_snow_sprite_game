@@ -12,7 +12,7 @@ function setup()
     sprites = [];
     createCanvas(800, 600);
     
-    // set up the twenty different sprites 
+    // set up the cat images 
     for (let i = 0; i < 4; i++)
     {
        sprites.push(setUpSprite());
