@@ -30,8 +30,6 @@ function draw()
     }
 }
 
-
-
 function setUpSprite()
 {
     let spriteRec; 
